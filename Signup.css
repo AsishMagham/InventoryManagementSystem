@@ -1,0 +1,50 @@
+#container {
+    margin-top: 100px;
+    margin-left: 400px;
+    padding-left: 100px;
+    margin-right: 300px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid rgb(87, 61, 234);
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 5px solid rgb(87, 61, 234);
+}
+
+#container input[type="text"],
+input[type="password"] {
+    margin-left: 90px;
+}
+
+input[type="button"] {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+input[type="button"]:hover {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(87, 61, 234);
+    color: white;
+}
+
+#btn1 {
+    margin-left: 30px;
+}
+
+#btn2 {
+    margin-left: 100px;
+}
+
+p {
+    margin-left: 500px;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#container #t3 {
+    margin-left: 10px;
+}

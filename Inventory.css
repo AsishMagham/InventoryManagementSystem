@@ -1,0 +1,100 @@
+#cont {
+    margin-top: 50px;
+    margin-left: 350px;
+    padding-left: 100px;
+    margin-right: 300px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid rgb(87, 61, 234);
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 5px solid rgb(87, 61, 234);
+}
+
+#cont input[type="text"],
+input[type="password"] {
+    margin-left: 90px;
+}
+
+input[type="button"] {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+input[type="button"]:hover {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(87, 61, 234);
+    color: white;
+}
+
+#btn1 {
+    position: relative;
+    left: -70px;
+}
+
+#btn2 {
+    position: relative;
+    left: -20px;
+}
+
+#btn3 {
+    position: relative;
+    left: -40px;
+}
+
+#btn4 {
+    position: relative;
+    left: 95px;
+}
+
+#btn5 {
+    position: relative;
+    left: -45px;
+}
+
+#btn6 {
+    position: relative;
+    left: 22px;
+}
+
+
+.c {
+    margin-left: 410px;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#btn7 {
+    margin-left: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(87, 61, 234);
+    border-top: 5px solid rgb(87, 61, 234);
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(208, 215, 249);
+}
+
+caption {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+input[type="button"] {
+    background-color: rgb(235, 235, 255);
+    padding: 5px;
+}

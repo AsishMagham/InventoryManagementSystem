@@ -1,0 +1,29 @@
+.navbar {
+    background-color: rgb(87, 61, 234);
+    color: white;
+    font-size: 33px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.navbar div {
+    display: inline;
+}
+
+.navbar #Logo {
+    padding-right: 500px;
+}
+
+.lk {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 14px;
+}
+
+.lk:hover {
+    background-color: red;
+}
